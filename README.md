@@ -1,7 +1,7 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=xrzlsd.xrzlsd)
 
 ## 🌍〃About Me
-Passsionné de programmation, d'audiovisuel et de jeux vidéos.
+16. programming, maths & AI enthusiast
 
 ## 🌐〃Socials
 
