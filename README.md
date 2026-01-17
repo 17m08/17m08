@@ -1,4 +1,4 @@
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=17m08.17m08)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=teammdr1.teammdr1)
 
 ## 🌍 About Me
 👋 Hi, I'm **teammdr**, a 17-year-old enthusiast passionate about **programming, mathematics, and artificial intelligence**.  
@@ -16,8 +16,8 @@ I enjoy building projects, experimenting with new technologies, and continuously
 ## 📊 GitHub Stats
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=17m08&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17m08&theme=gruvbox)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17m08&layout=compact&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teammdr1&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=teammdr1&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=teammdr1&layout=compact&theme=gruvbox)
 
 </div>
